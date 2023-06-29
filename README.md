@@ -1,2 +1,2 @@
 # Python
-I developed this portfolio using Python Programming Language in Jupyter Notebook.
+showcased different functions and methods used in Python to build the programs that provides utilities to the user. 
